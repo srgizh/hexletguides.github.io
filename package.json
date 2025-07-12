@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Hexlet/hexletguides.github.io#readme",
   "dependencies": {
-    "bootstrap": "^5.0.1"
+    "bootstrap": "^5.3.7"
   },
   "devDependencies": {
     "simple-git-hooks": "^2.5.1"
